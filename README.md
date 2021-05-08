@@ -2,8 +2,15 @@
 
 Projeto desenvolvido durante as aulas de "POO", onde fizemos o consumo de uma API para realizar a pesquisa da situação climática de um lugar específico informado. Toda paste de código foi feito na mais conhecida IDE "NetBeans" com a seguinte estrutura: 
 ```sh
-Java EE Base
-EJB e EAR
+index.jsp;
+br.uninove.api/Http.java;
+br.uninove.uniweather/Clima.java;
+br.uninove.uniweather/Clouds.java;
+br.uninove.uniweather/Coord.java;
+br.uninove.uniweather/Main.java;
+br.uninove.uniweather/Sys.java;
+br.uninove.uniweather/Weather.java;
+br.uninove.uniweather/Wind.java;
 ```
 
 ---
@@ -30,10 +37,12 @@ EJB e EAR
 - Necessário a instalação do [GlassFish Server](https://javaee.github.io/glassfish/download) para rodar o projeto com API;
 - No NetBeans: instalar os seguintes plugins:
 ```sh
-Java EE Base
-EJB e EAR
+Java EE Base;
+EJB e EAR;
 ```
-- Acesse o site [OpenWeather](https://openweathermap.org/) e se inscreva para realizar a liberação de sua API Key e ter acesso a todas suas funcionalidades!
+- Acesse o site [OpenWeatherMap](https://openweathermap.org/) e se inscreva para realizar a liberação de sua API Key e ter acesso a todas suas funcionalidades;
+- No Código (br.uninove.api.Http.java) terá o campo para colar a sua API Key:
+- 
 
 ---
 
