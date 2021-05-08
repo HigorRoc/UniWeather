@@ -1,5 +1,5 @@
 <%@page import="br.uninove.api.Http"%>
-<%@page import="br.uninove.uniweatlher.Clima"%>
+<%@page import="br.uninove.uniweather.Clima"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 <!-- Bloco de Código JAVA -->
@@ -32,7 +32,7 @@
             }
         </style>
     </head>
-    <body>
+    <body background="background.jpg">
         <!-- Barra de Nav -->
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <div class="container-fluid">
