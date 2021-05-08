@@ -37,4 +37,4 @@ EJB e EAR
 
 ---
 
-@HigorRoc® 
+HigorRoc® 
