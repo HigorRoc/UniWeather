@@ -42,11 +42,7 @@ EJB e EAR;
 ```
 - Acesse o site [OpenWeatherMap](https://openweathermap.org/) e se inscreva para realizar a liberação de sua API Key e ter acesso a todas suas funcionalidades;
 - No Código (br.uninove.api.Http.java) terá o campo para colar a sua API Key;
-- Captura de Tela do Local:
-- <img src="https://github.com/HigorRoc/UniWeather/blob/master/apiKey.png">
-
-
-Após isso, informe o local desejado e saiba o clima atual!! :partly_sunny:
+- Após isso, informe o local desejado e saiba o clima atual!! :partly_sunny:
 
 ---
 
